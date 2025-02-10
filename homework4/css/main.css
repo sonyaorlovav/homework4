@@ -1,0 +1,12 @@
+body{
+height: 100vh;
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: rgb(245, 221, 5);
+}
+
+#coor{
+font-size: 70px;
+color: rgb(53, 53, 255);
+}
